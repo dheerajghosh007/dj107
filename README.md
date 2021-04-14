@@ -2,7 +2,7 @@
 
 ## I am Dheeraj Ghosh a CSE Student, a Developer and an open source enthusiast.
 <!--
-**dj107/dj107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dj107/dj107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate in Community
@@ -19,7 +19,7 @@
 [1]: https://twitter.com/dheeraj_7_
 [2]: https://www.linkedin.com/in/dheerajghosh007
 - ⚡ Fun fact: I can joke
--->
+
 <a href="https://github.com/dj107/dj107>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dj107&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dheeraj's Github Stats" />
 </a>
