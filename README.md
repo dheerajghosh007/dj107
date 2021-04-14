@@ -93,7 +93,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
       </tr>-->
       <tr>
-	      <td><a href="https://github.com/dj107/BITSIS"><b>💸 TradeByte</b></a></td>
+	      <td><a href="https://github.com/dj107/BITSIS"><b>👩🏼‍🤝‍🧑🏼 BITSIS</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/dj107/BITSIS?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/dj107/BITSIS?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/dj107/BITSIS?style=flat-square"/></td>
@@ -101,7 +101,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/dj107/BITSIS?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/dj107/Repo-for-mlh-lhd-share-challenges/tree/main/Day2/music_visualizer"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
+	      <td><a href="https://github.com/dj107/Repo-for-mlh-lhd-share-challenges/tree/main/Day2/music_visualizer"><b>👨🏻‍💻 Music Visualizer</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/dj107/Repo-for-mlh-lhd-share-challenges/tree/main/Day2/music_visualizer?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/dj107/Repo-for-mlh-lhd-share-challenges/tree/main/Day2/music_visualizer?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/dj107/Repo-for-mlh-lhd-share-challenges/tree/main/Day2/music_visualizer?style=flat-square"/></td>
