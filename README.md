@@ -119,7 +119,3 @@
     </tbody>
   </table>
   <br />
-</details>
- 
-<details>	
-  <br />
