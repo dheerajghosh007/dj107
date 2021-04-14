@@ -11,6 +11,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br/>
+<br/>
 <!--
 **dj107/dj107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -40,4 +41,3 @@
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dj107&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dheeraj's Github Stats" />
 <br/>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dj107.dj107)
