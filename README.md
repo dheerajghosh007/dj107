@@ -102,7 +102,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/dj107/Repo-for-mlh-lhd-share-challenges?style=flat-square"/></td> 
       </tr>
        <tr>
-	      <td><a href="https://github.com/dj107/Linky"><b>🚀 Gitwar</b></a></td>
+	      <td><a href="https://github.com/dj107/Linky"><b>🚀 Linky</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/dj107/Linky?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/dj107/Linky?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/dj107/Linky?style=flat-square"/></td>
