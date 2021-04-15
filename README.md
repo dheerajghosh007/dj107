@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-## I'm [Dheeraj!]() a CSE Student, a Developer and an Open-Source enthusiast.
+## I'm [Dheeraj!](https://dj107.github.io/) a CSE Student, a Developer and an Open-Source enthusiast.
 <!--<a href="https://www.linkedin.com/in/dheerajghosh007/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -10,13 +10,13 @@
 <a href="mailto:dheerajghosh007@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>-->
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dheerajghosh007)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dj107.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dheeraj_7_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_dhee7raj_/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-e4405f?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/dhee7raj/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dhee7raj)
-<!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()-->
+
 <br/>
 <br/>
 <!--
