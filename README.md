@@ -24,6 +24,7 @@
 <!--
 **dj107/dj107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+<img src="https://activity-graph.herokuapp.com/graph?username=dj107&hide_border=true&hide_title=true&area=true&bg_color=0D1117&color=C9D1D9&area_color=238636&line=FFFFFF20&point=238636">
 
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate in Community
